@@ -8,10 +8,10 @@ const appData = {
     "E": { name: "1030", weightage: 1.000, ballots: 6 }
   },
   candidates: [
-    "Abhishek Tiwari (1)", "Ajay Jaitly (2)", "Amit Singh (3)", "Arijit Ghosh (4)", 
-            "Mahendra Singh Yadav (5)", "Milan Saxena (6)", "Mukesh Kumar Gupta (7)", "Nisha Singh (8)", 
-            "Rajendra Kumar Gupta (9)", "Rakesh Kumar Singh (10)","Sanjay Taneja (11)", "Saurabh C Verma (12)", 
-            "Sumit Manocha (13)", "S.C. Bisht (14)", "Vibhor Gupta (15)", "Yogendra Bajaj (16)"
+    "(1) Abhishek Tiwari", "(2) Ajay Jaitly", "(3) Amit Singh", "(4) Arijit Ghosh", 
+            "(5) Mahendra Singh Yadav", "(6) Milan Saxena", "(7) Mukesh Kumar Gupta", "(8) Nisha Singh", 
+            "(9) Rajendra Kumar Gupta", "(10) Rakesh Kumar Singh","(11) Sanjay Taneja", "(12) Saurabh C Verma", 
+            "(13) Sumit Manocha", "(14) S.C. Bisht", "(15) Vibhor Gupta", "(16) Yogendra Bajaj"
   ],
   votingRules: {
     maxCandidatesPerBallot: 9,
